@@ -1,0 +1,16 @@
+Location,Food,Amount ,Amount %
+Southern California,McDonalds,10,0.144927536
+Southern California,In-N-Out,38,0.550724638
+Southern California,Jack in the Box,4,0.057971014
+Southern California,No Fast Food Preference,11,0.15942029
+Southern California,Other Fast Food,6,0.086956522
+Northern California,McDonalds,5,0.263157895
+Northern California,In-N-Out,8,0.421052632
+Northern California,Jack in the Box,0,0
+Northern California,No Fast Food Preference,4,0.210526316
+Northern California,Other Fast Food,2,0.105263158
+International,McDonalds,4,0.2
+International,In-N-Out,5,0.25
+International,Jack in the Box,2,0.1
+International,No Fast Food Preference,5,0.25
+International,Other Fast Food,4,0.2
