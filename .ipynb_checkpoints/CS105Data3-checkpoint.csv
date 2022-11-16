@@ -1,0 +1,76 @@
+Location,Brands,Amount ,Amount %
+Southern California,Nike,22,0.31884058
+Southern California,Vans,14,0.202898551
+Southern California,Adidas,4,0.057971014
+Southern California,No Shoe Preference,22,0.31884058
+Southern California,Other Shoes,7,0.101449275
+Southern California,McDonalds,10,0.144927536
+Southern California,In-N-Out,38,0.550724638
+Southern California,Jack in the Box,4,0.057971014
+Southern California,No Fast Food Preference,11,0.15942029
+Southern California,Other Fast Food,6,0.086956522
+Southern California,Apple,54,0.782608696
+Southern California,Samsung,6,0.086956522
+Southern California,Google,1,0.014492754
+Southern California,No Phone Preference,5,0.072463768
+Southern California,Other Phone,3,0.043478261
+Southern California,Sprite,20,0.289855073
+Southern California,Coca Cola,18,0.260869565
+Southern California,Pepsi,6,0.086956522
+Southern California,No Soda Preference,10,0.144927536
+Southern California,Other Soda,14,0.202898551
+Southern California,Spotify,47,0.68115942
+Southern California,Apple Music,5,0.072463768
+Southern California,Youtube,5,0.072463768
+Southern California,No Streaming Preference,11,0.15942029
+Southern California,Other Streaming,1,0.014492754
+Northern California,Nike,4,0.210526316
+Northern California,Vans,1,0.052631579
+Northern California,Adidas,5,0.263157895
+Northern California,No Shoe Preference,8,0.421052632
+Northern California,Other Shoes,1,0.052631579
+Northern California,McDonalds,5,0.263157895
+Northern California,In-N-Out,8,0.421052632
+Northern California,Jack in the Box,0,0
+Northern California,No Fast Food Preference,4,0.210526316
+Northern California,Other Fast Food,2,0.105263158
+Northern California,Apple,11,0.578947368
+Northern California,Samsung,4,0.210526316
+Northern California,Google,1,0.052631579
+Northern California,No Phone Preference,3,0.157894737
+Northern California,Other Phone,0,0
+Northern California,Sprite,9,0.473684211
+Northern California,Coca Cola,3,0.157894737
+Northern California,Pepsi,2,0.105263158
+Northern California,No Soda Preference,4,0.210526316
+Northern California,Other Soda,1,0.052631579
+Northern California,Spotify,14,0.736842105
+Northern California,Apple Music,1,0.052631579
+Northern California,Youtube,1,0.052631579
+Northern California,No Streaming Preference,3,0.157894737
+Northern California,Other Streaming,0,0
+International,Nike,8,0.4
+International,Vans,0,0
+International,Adidas,0,0
+International,No Shoe Preference,8,0.4
+International,Other Shoes,4,0.2
+International,McDonalds,4,0.2
+International,In-N-Out,5,0.25
+International,Jack in the Box,2,0.1
+International,No Fast Food Preference,5,0.25
+International,Other Fast Food,4,0.2
+International,Apple,11,0.55
+International,Samsung,2,0.1
+International,Google,4,0.2
+International,No Phone Preference,3,0.15
+International,Other Phone,0,0
+International,Sprite,3,0.15
+International,Coca Cola,10,0.5
+International,Pepsi,2,0.1
+International,No Soda Preference,4,0.2
+International,Other Soda,1,0.05
+International,Spotify,8,0.4
+International,Apple Music,4,0.2
+International,Youtube,0,0
+International,No Streaming Preference,5,0.25
+International,Other Streaming,3,0.15
