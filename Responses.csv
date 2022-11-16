@@ -1,112 +1,112 @@
-Timestamp,Age,Gender,Ethnicity,Location,Year,Major,Shoe,Fast Food,Phone,Soda,Music
-11/3/2022 1:35:26,22,Male,Asian,Southern California,Senior,Data science,No Preference,McDonalds,No Preference,Sprite,Youtube
-11/3/2022 8:15:03,22,Female,Asian,International,Junior,computer science,sketchers,wendys,Samsung,Coca Cola,Apple Music
-11/3/2022 8:33:24,27,Male,White,Southern California,Senior,CSBA,Nike,In-N-Out,Just prefer android over apple os,Dr Pepper,Spotify
-11/3/2022 8:39:22,24,Male,Asian,Southern California,Senior,Computer Science,Nike,In-N-Out,Apple,Sprite,Spotify
-11/3/2022 8:59:48,40,Female,White,Southern California,Junior,data science,Nike,McDonalds,Apple,No Preference,Apple Music
-11/3/2022 9:08:35,21,Female,Asian,Northern California,Senior,Computer Science,Vans,Taco Bell,Samsung,Sprite,Spotify
-11/3/2022 10:08:44,21,Female,Asian,Southern California,Senior,Biology,Nike,Chick-fil-a,Apple,Dr. Pepper,Spotify
-11/3/2022 10:26:44,21,Male,Asian,Northern California,Junior,Computer Science,Adidas,McDonalds,Samsung,Coca Cola,Spotify
-11/3/2022 10:28:35,20,Female,Asian,Northern California,Junior,Data Science,No Preference,McDonalds,Apple,Pepsi,Spotify
-11/3/2022 10:44:53,22,Female,Asian,Northern California,Senior,Computer Science,No Preference,In-N-Out,Apple,Jarritos,Spotify
-11/3/2022 10:58:04,21,Male,Asian,International,Senior,Computer Science,Nike,In-N-Out,Apple,Coca Cola,QQ music
-11/3/2022 11:01:52,21,Male,Asian,Southern California,Senior,Computer Science,Nike,McDonalds,Apple,Sprite,Spotify
-11/3/2022 11:10:02,19,Male,Mixed,Southern California,Sophomore,Data Science,Asics,McDonalds,Motorola,Dr. Pepper,No Preference
-11/3/2022 11:38:17,21,Male,Middle Eastern or North African,International,Junior,Data Science,No Preference,In-N-Out,Apple,Sprite,Spotify
-11/3/2022 11:41:46,22,Male,Asian,Southern California,Senior,ENCS,No Preference,McDonalds,Apple,Coca Cola,Spotify
-11/3/2022 12:23:04,21,Male,Asian,Southern California,Senior,CS,New Balance,In-N-Out,Apple,Coca Cola,Spotify
-11/3/2022 12:38:43,21,Male,Asian,Southern California,Senior,Computer Science,No Preference,In-N-Out,Samsung,Dr. Pepper,Youtube
-11/3/2022 13:47:40,21,Male,Asian,Southern California,Senior,CS,Nike,In-N-Out,Apple,Sprite,Spotify
-11/3/2022 14:38:13,22,Female,White,International,Senior,CS,No Preference,McDonalds,Google,Pepsi,No Preference
-11/3/2022 14:49:04,21,Male,Asian,Southern California,Senior,Computer Science with Business Applications,No Preference,In-N-Out,Apple,Sprite,Spotify
-11/3/2022 15:11:18,21,Male,Asian,Southern California,Senior,Computer Science,Nike,No Preference,Apple,No Preference,Spotify
-11/3/2022 15:59:05,21,Female,Black or African American,Southern California,Senior,DTSE,No Preference,In-N-Out,Apple,Coca Cola,Spotify
-11/3/2022 16:08:08,21,Male,Asian,International,Sophomore,Data Science,No Preference,McDonalds,Google,Coca Cola,No Preference
-11/3/2022 17:43:04,21,Male,Asian,Southern California,Senior,Computer Science,Adidas,In-N-Out,No Preference,Sprite,No Preference
-11/3/2022 17:43:34,21,Male,Asian,Northern California,Senior,CSBA,Nike,In-N-Out,Apple,Sprite,Apple Music
-11/3/2022 17:48:33,21,Male,Asian,Northern California,Senior,Computer Science,Nike,No Preference,Apple,No Preference,Spotify
-11/3/2022 18:10:33,21,Male,Asian,Southern California,Senior,CSBA,Vans,Jack In the Box,Apple,Sprite,Spotify
-11/3/2022 23:06:00,27,Male,Asian,Southern California,Senior,Computer Science,No Preference,In-N-Out,Apple,Pepsi,Spotify
-11/3/2022 23:41:52,24,Male,Asian,Southern California,Senior,Data Science,Adidas,In-N-Out,Apple,Coca Cola,Spotify
-11/4/2022 13:32:54,20,Male,Asian,Southern California,Senior,computer science,No Preference,No Preference,Apple,No Preference,Spotify
-11/4/2022 13:33:13,21,Female,Asian,Southern California,Senior,Computer science,No Preference,In-N-Out,Apple,Coca Cola,Amazon Prime Music
-11/4/2022 17:00:56,21,Male,Asian,International,Senior,CS,puma,Jack In the Box,Apple,Pepsi,Apple Music
-11/4/2022 17:28:58,20,Female,"Hispanic, Latino or Spanish Origin",Southern California,Senior,CSBA,Vans,In-N-Out,Apple,Coca Cola,Spotify
-11/4/2022 17:37:01,22,Male,Asian,Southern California,Senior,Computer Science,No Preference,In-N-Out,No Preference,Coke Zero,YouTube Music
-11/4/2022 17:47:46,20,Male,Asian,Southern California,Junior,Computer Science,Adidas,In-N-Out,Apple,Fanta,Spotify
-11/4/2022 18:08:41,20,Female,Asian,Northern California,Senior,CSBA,Nike,In-N-Out,Apple,Sprite,Spotify
-11/4/2022 18:26:48,,,,,,,,,,,
-11/4/2022 19:31:54,21,Male,Asian,Northern California,Senior,CS,No Preference,In-N-Out,Apple,Coca Cola,Youtube
-11/4/2022 19:45:50,23,Male,"Hispanic, Latino or Spanish Origin",Northern California,Junior,Cs,,,,,Spotify
-11/4/2022 20:07:17,21,Male,Asian,Southern California,Junior,Computer Science,No Preference,In-N-Out,Samsung,Coca Cola,No Preference
-11/4/2022 21:54:46,20,Female,Asian,Southern California,Junior,CS,Converse,McDonalds,Apple,Sprite,Spotify
-11/4/2022 22:05:14,40,Female,Middle Eastern or North African,Southern California,Senior,CS,Nike,,Apple,,
-11/4/2022 23:42:38,19,Female,"Hispanic, Latino or Spanish Origin",Southern California,Sophomore,Computer Science,Nike,In-N-Out,Apple,Do not drink soda,Apple Music
-11/5/2022 0:35:40,23,Male,Asian,International,Senior,computer science,Nike,McDonalds,Apple,Coca Cola,Spotify
-11/5/2022 13:43:07,27,Male,White,Southern California,Senior,CS,Vans,McDonalds,Apple,Sprite,Spotify
-11/5/2022 15:26:51,20,Male,Black or African American,Southern California,Junior,CSBA,Nike,In-N-Out,Samsung,No Preference,Spotify
-11/5/2022 15:28:19,24,Male,Middle Eastern or North African,International,Junior,Data Science,No Preference,No Preference,Apple,Coca Cola,Spotify
-11/5/2022 19:37:49,18-21,Male,Asian,Southern California,Sophomore,CS,Reeboks,Subway,Google,Mountain Drew,Spotify
-11/5/2022 23:41:49,20,Female,Asian,Southern California,Sophomore,currently undeclared but filled out change of major request form beginning of this quarter,No Preference,No Preference,Apple,Coca Cola,Spotify
-11/6/2022 1:10:35,22,Male,Black or African American,Southern California,Senior,Computer Science,No Preference,In-N-Out,Sony,No Preference,
-11/6/2022 10:47:41,20,Male,White,Southern California,Junior,Computer Science,No Preference,No Preference,Apple,Diet Coke,Spotify
-11/6/2022 11:28:32,19,Male,"Hispanic, Latino or Spanish Origin",Southern California,Sophomore,Computer Science,No Preference,No Preference,No Preference,Sprite,No Preference
-11/6/2022 13:28:06,19,Female,Asian,Southern California,Sophomore,Computer Science,Vans,Jack In the Box,Apple,No Preference,Spotify
-11/6/2022 15:15:01,24,Male,Asian,International,Master's,Computer Science,Nike,No Preference,Apple,No Preference,Spotify
-11/6/2022 15:39:10,20,Male,"Hispanic, Latino or Spanish Origin",Southern California,Junior,Data Science,Vans,In-N-Out,Apple,Dr. Pepper,Apple Music
-11/6/2022 16:41:35,23,Male,Asian,International,Senior,Computer Science,Converse,Panda Express,Apple,Coca Cola,No Preference
-11/6/2022 16:43:32,21,Male,"Hispanic, Latino or Spanish Origin",Central California,Senior,Psych & CompSci,Puma,McDonalds,Samsung,Sprite,Spotify
-11/6/2022 17:10:50,24,Male,Asian,International,Master's,Computer Science,Nike,Subway,Google,Coca Cola,Spotify
-11/6/2022 18:06:28,25,Female,"Hispanic, Latino or Spanish Origin",Southern California,Senior,cs major,No Preference,No Preference,Samsung,Sprite,Spotify
-11/7/2022 0:12:19,23,Non-binary/non-conforming,Asian,Southern California,Senior,Computer Science,No Preference,In-N-Out,No Preference,Root beer,Youtube
-11/7/2022 1:44:51,24,Male,Asian,Out of State (Within U.S),Senior,Computer Science,Nike,In-N-Out,Google,Coca Cola,Spotify
-11/7/2022 11:01:24,21,Male,"Hispanic, Latino or Spanish Origin",Southern California,Senior,CS,Nike,In-N-Out,Apple,No Preference,Spotify
-11/7/2022 12:40:41,25,Male,Asian,International,Senior,computer science,No Preference,In-N-Out,No Preference,Sprite,Apple Music
-11/7/2022 12:57:33,21,Male,Asian,Southern California,Senior,Computer Science,Nike,In-N-Out,Apple,Sprite,Spotify
-11/7/2022 13:07:41,21,Female,Asian,Southern California,Senior,CSBA,New Balance,In-N-Out,Apple,Sprite,Spotify
-11/7/2022 13:10:02,21,Male,Black or African American,Northern California,Senior,Data Science,Adidas,In-N-Out,Apple,Sprite,Spotify
-11/7/2022 13:28:27,21,Female,Asian,Northern California,Senior,Computer Science,Nike,In-N-Out,Apple,Sprite,Spotify
-11/7/2022 13:31:41,20,Male,Asian,Southern California,Junior,CSBA,Vans,Jack In the Box,Apple,Sprite,Spotify
-11/7/2022 13:46:08,23,Male,Asian,Southern California,Sophomore,Data Science ,Vans,In-N-Out,Apple,Coca Cola,Spotify
-11/7/2022 15:44:37,22,Male,Asian,International,Junior,CS,Nike,Carl's jr,Apple,Die coke,Wang Yi Yun
-11/7/2022 16:31:51,19,Male,Asian,International,Sophomore,Computer Science,Nike,McDonalds,Apple,Coca Cola,Spotify
-11/7/2022 21:14:17,18,Female,White,Southern California,Sophomore,Computer Engineering,Vans,Wendy's,Apple,Coca Cola,Spotify
-11/8/2022 8:25:09,21,Male,Asian,Northern California,Senior,CS,Adidas,McDonalds,Apple,Sprite,Spotify
-11/8/2022 9:00:34,20,Female,Asian,International,Junior,Statistics,Shoes like pottery,No Preference,Apple,No Preference,No Preference
-11/8/2022 11:11:11,19,Male,Asian,Northern California,Junior,Computer Science,No Preference,In-N-Out,Google,Coca Cola,Spotify
-11/8/2022 11:13:21,19,Non-binary/non-conforming,Asian,Southern California,Sophomore,Computer Engineering,No Preference,Jack In the Box,Apple,Sprite,No Preference
-11/8/2022 11:14:24,19,Female,Asian,Southern California,Sophomore,Data Science,Vans,In-N-Out,Apple,Sprite,No Preference
-11/8/2022 11:21:15,21,Female,Asian,Northern California,Senior,Computer Science ,No Preference,Tacobell,Samsung,Pepsi,Spotify
-11/8/2022 11:23:56,20,Male,Asian,Southern California,Junior,computer science with business applications,Vans,chick fill a or in and out,Apple,sparkling water,Spotify
-11/8/2022 11:24:05,19,Male,White,Southern California,Sophomore,ENCS,Vans,In-N-Out,Samsung,Pepsi,Youtube Music
-11/8/2022 11:26:48,19,Male,Asian,Southern California,Sophomore,Computer Science,Vans,In-N-Out,Apple,Coca Cola,Spotify
-11/8/2022 11:28:00,20,Male,Asian,Southern California,Junior,Computer Engineering,No Preference,In-N-Out,Samsung,Pepsi,Spotify
-11/8/2022 11:28:41,19,Male,White,Southern California,Sophomore,CSBA,Nike,In-N-Out,Apple,Coca Cola,Spotify
-11/8/2022 11:29:22,19,Male,Asian,Southern California,Sophomore,Computer Science,Nike,No Preference,Apple,No Preference,No Preference
-11/8/2022 11:33:30,20,Female,Asian,Southern California,Junior,Computational Math,Nike,In-N-Out,Apple,Sprite,Spotify
-11/8/2022 11:42:00,19,Male,White,Southern California,Sophomore,Computer Science,No Preference,McDonalds,Apple,Pepsi,No Preference
-11/8/2022 12:13:36,23,Male,White,Southern California,Senior,Computer Science ,No Preference,In-N-Out,Apple,Diet drinks,Spotify
-11/8/2022 12:42:54,19,Male,Asian,Southern California,Sophomore,Computer Science,Nike,No Preference,Apple,Pepsi,Spotify
-11/8/2022 12:50:14,19,Male,Asian,Northern California,Junior,MSE,,,,,
-11/8/2022 12:57:50,19,Male,Asian,International,Freshman,Economics,Nike,In-N-Out,Apple,Sprite,Apple Music
-11/8/2022 13:03:33,21,Male,"Hispanic, Latino or Spanish Origin",Southern California,Senior,Computer Science,Nike,In-N-Out,Apple,Coca Cola,Apple Music
-11/8/2022 13:29:32,19,Male,Asian,International,Sophomore,CS,,,,,
-11/8/2022 13:35:44,19,Male,Asian,Southern California,Sophomore,Computer Science BS,Vans,In-N-Out,Apple,No Preference,Spotify
-11/8/2022 14:26:15,19,Female,Asian,Northern California,Sophomore,CSBA,No Preference,No Preference,No Preference,No Preference,No Preference
-11/8/2022 15:34:48,20,Male,Asian,Southern California,Junior,CS,Nike,In-N-Out,Apple,Coca Cola,Spotify
-11/8/2022 16:41:47,20,Female,"Hispanic, Latino or Spanish Origin",Southern California,Junior,Computer Engineering,No Preference,No Preference,Apple,Coca Cola,No Preference
-11/8/2022 20:03:00,22,Male,Asian,Southern California,Senior,Computational Math,Nike,In-N-Out,Apple,Sprite,Apple Music
-11/8/2022 20:29:19,22,Male,Asian,Southern California,Senior,CSBA,Nike,Chipotle,Apple,Coca Cola,Spotify
-11/8/2022 20:55:42,20,Male,Black or African American,Southern California,Junior,Math,Adidas,No Preference,Apple,Sprite,Spotify
-11/9/2022 8:49:41,22,Male,Asian,Southern California,Senior,Computer Science,Nike,McDonalds,Apple,Pepsi,Spotify
-11/9/2022 9:36:56,22,Male,Mixed,Southern California,Senior,Computer Science,Vans,In-N-Out,Apple,Coca Cola,Spotify
-11/9/2022 9:42:24,24,Male,Asian,Northern California,Junior,Data Science,Adidas,In-N-Out,Apple,Sprite,No Preference
-11/9/2022 10:12:39,21,Non-binary/non-conforming,Asian,Southern California,Senior,Computer Science,Converse,In-N-Out,Apple,Sprite,Spotify
-11/9/2022 14:14:47,30,Male,White,Southern California,Senior,Computer Science,saucony,Del Taco,Apple,None,Spotify
-11/9/2022 17:16:16,23,Male,Asian,Out of State (Within U.S),Senior,csba,No Preference,No Preference,No Preference,No Preference,SoundCloud 
-11/9/2022 17:50:55,22,Male,Black or African American,Southern California,Senior,Computer Science,Nike,McDonalds,Apple,Root Beer,Spotify
-11/11/2022 18:14:17,23,Male,Asian,International,Master's,Computer Science,No Preference,Jack In the Box,Samsung,Coca Cola,Spotify
-11/12/2022 4:40:24,19,Male,Asian,Southern California,Junior,CE,No Preference,In-N-Out,Apple,Coca Cola,Spotify
-11/12/2022 20:20:23,21,Male,Asian,Northern California,Senior,Computer Science,Adidas,McDonalds,Apple,Sprite,Spotify
-11/14/2022 1:33:38,19,Male,White,Southern California,Sophomore,CSBA,Nike,In-N-Out,Apple,No Preference,Spotify
-11/14/2022 13:42:29,23,Male,Asian,International,Master's,Computer Science,Nike,In-N-Out,Samsung,Coca Cola,Apple Music
+Timestamp,Location,Shoe,Fast Food,Phone,Soda,Music
+11/3/2022 1:35:26,Southern California,No Preference,McDonalds,No Preference,Sprite,Youtube
+11/3/2022 8:15:03,International,sketchers,wendys,Samsung,Coca Cola,Apple Music
+11/3/2022 8:33:24,Southern California,Nike,In-N-Out,Just prefer android over apple os,Dr Pepper,Spotify
+11/3/2022 8:39:22,Southern California,Nike,In-N-Out,Apple,Sprite,Spotify
+11/3/2022 8:59:48,Southern California,Nike,McDonalds,Apple,No Preference,Apple Music
+11/3/2022 9:08:35,Northern California,Vans,Taco Bell,Samsung,Sprite,Spotify
+11/3/2022 10:08:44,Southern California,Nike,Chick-fil-a,Apple,Dr. Pepper,Spotify
+11/3/2022 10:26:44,Northern California,Adidas,McDonalds,Samsung,Coca Cola,Spotify
+11/3/2022 10:28:35,Northern California,No Preference,McDonalds,Apple,Pepsi,Spotify
+11/3/2022 10:44:53,Northern California,No Preference,In-N-Out,Apple,Jarritos,Spotify
+11/3/2022 10:58:04,International,Nike,In-N-Out,Apple,Coca Cola,QQ music
+11/3/2022 11:01:52,Southern California,Nike,McDonalds,Apple,Sprite,Spotify
+11/3/2022 11:10:02,Southern California,Asics,McDonalds,Motorola,Dr. Pepper,No Preference
+11/3/2022 11:38:17,International,No Preference,In-N-Out,Apple,Sprite,Spotify
+11/3/2022 11:41:46,Southern California,No Preference,McDonalds,Apple,Coca Cola,Spotify
+11/3/2022 12:23:04,Southern California,New Balance,In-N-Out,Apple,Coca Cola,Spotify
+11/3/2022 12:38:43,Southern California,No Preference,In-N-Out,Samsung,Dr. Pepper,Youtube
+11/3/2022 13:47:40,Southern California,Nike,In-N-Out,Apple,Sprite,Spotify
+11/3/2022 14:38:13,International,No Preference,McDonalds,Google,Pepsi,No Preference
+11/3/2022 14:49:04,Southern California,No Preference,In-N-Out,Apple,Sprite,Spotify
+11/3/2022 15:11:18,Southern California,Nike,No Preference,Apple,No Preference,Spotify
+11/3/2022 15:59:05,Southern California,No Preference,In-N-Out,Apple,Coca Cola,Spotify
+11/3/2022 16:08:08,International,No Preference,McDonalds,Google,Coca Cola,No Preference
+11/3/2022 17:43:04,Southern California,Adidas,In-N-Out,No Preference,Sprite,No Preference
+11/3/2022 17:43:34,Northern California,Nike,In-N-Out,Apple,Sprite,Apple Music
+11/3/2022 17:48:33,Northern California,Nike,No Preference,Apple,No Preference,Spotify
+11/3/2022 18:10:33,Southern California,Vans,Jack In the Box,Apple,Sprite,Spotify
+11/3/2022 23:06:00,Southern California,No Preference,In-N-Out,Apple,Pepsi,Spotify
+11/3/2022 23:41:52,Southern California,Adidas,In-N-Out,Apple,Coca Cola,Spotify
+11/4/2022 13:32:54,Southern California,No Preference,No Preference,Apple,No Preference,Spotify
+11/4/2022 13:33:13,Southern California,No Preference,In-N-Out,Apple,Coca Cola,Amazon Prime Music
+11/4/2022 17:00:56,International,puma,Jack In the Box,Apple,Pepsi,Apple Music
+11/4/2022 17:28:58,Southern California,Vans,In-N-Out,Apple,Coca Cola,Spotify
+11/4/2022 17:37:01,Southern California,No Preference,In-N-Out,No Preference,Coke Zero,YouTube Music
+11/4/2022 17:47:46,Southern California,Adidas,In-N-Out,Apple,Fanta,Spotify
+11/4/2022 18:08:41,Northern California,Nike,In-N-Out,Apple,Sprite,Spotify
+11/4/2022 18:26:48,,,,,,
+11/4/2022 19:31:54,Northern California,No Preference,In-N-Out,Apple,Coca Cola,Youtube
+11/4/2022 19:45:50,Northern California,,,,,Spotify
+11/4/2022 20:07:17,Southern California,No Preference,In-N-Out,Samsung,Coca Cola,No Preference
+11/4/2022 21:54:46,Southern California,Converse,McDonalds,Apple,Sprite,Spotify
+11/4/2022 22:05:14,Southern California,Nike,,Apple,,
+11/4/2022 23:42:38,Southern California,Nike,In-N-Out,Apple,Do not drink soda,Apple Music
+11/5/2022 0:35:40,International,Nike,McDonalds,Apple,Coca Cola,Spotify
+11/5/2022 13:43:07,Southern California,Vans,McDonalds,Apple,Sprite,Spotify
+11/5/2022 15:26:51,Southern California,Nike,In-N-Out,Samsung,No Preference,Spotify
+11/5/2022 15:28:19,International,No Preference,No Preference,Apple,Coca Cola,Spotify
+11/5/2022 19:37:49,Southern California,Reeboks,Subway,Google,Mountain Drew,Spotify
+11/5/2022 23:41:49,Southern California,No Preference,No Preference,Apple,Coca Cola,Spotify
+11/6/2022 1:10:35,Southern California,No Preference,In-N-Out,Sony,No Preference,
+11/6/2022 10:47:41,Southern California,No Preference,No Preference,Apple,Diet Coke,Spotify
+11/6/2022 11:28:32,Southern California,No Preference,No Preference,No Preference,Sprite,No Preference
+11/6/2022 13:28:06,Southern California,Vans,Jack In the Box,Apple,No Preference,Spotify
+11/6/2022 15:15:01,International,Nike,No Preference,Apple,No Preference,Spotify
+11/6/2022 15:39:10,Southern California,Vans,In-N-Out,Apple,Dr. Pepper,Apple Music
+11/6/2022 16:41:35,International,Converse,Panda Express,Apple,Coca Cola,No Preference
+11/6/2022 16:43:32,Central California,Puma,McDonalds,Samsung,Sprite,Spotify
+11/6/2022 17:10:50,International,Nike,Subway,Google,Coca Cola,Spotify
+11/6/2022 18:06:28,Southern California,No Preference,No Preference,Samsung,Sprite,Spotify
+11/7/2022 0:12:19,Southern California,No Preference,In-N-Out,No Preference,Root beer,Youtube
+11/7/2022 1:44:51,Out of State (Within U.S),Nike,In-N-Out,Google,Coca Cola,Spotify
+11/7/2022 11:01:24,Southern California,Nike,In-N-Out,Apple,No Preference,Spotify
+11/7/2022 12:40:41,International,No Preference,In-N-Out,No Preference,Sprite,Apple Music
+11/7/2022 12:57:33,Southern California,Nike,In-N-Out,Apple,Sprite,Spotify
+11/7/2022 13:07:41,Southern California,New Balance,In-N-Out,Apple,Sprite,Spotify
+11/7/2022 13:10:02,Northern California,Adidas,In-N-Out,Apple,Sprite,Spotify
+11/7/2022 13:28:27,Northern California,Nike,In-N-Out,Apple,Sprite,Spotify
+11/7/2022 13:31:41,Southern California,Vans,Jack In the Box,Apple,Sprite,Spotify
+11/7/2022 13:46:08,Southern California,Vans,In-N-Out,Apple,Coca Cola,Spotify
+11/7/2022 15:44:37,International,Nike,Carl's jr,Apple,Die coke,Wang Yi Yun
+11/7/2022 16:31:51,International,Nike,McDonalds,Apple,Coca Cola,Spotify
+11/7/2022 21:14:17,Southern California,Vans,Wendy's,Apple,Coca Cola,Spotify
+11/8/2022 8:25:09,Northern California,Adidas,McDonalds,Apple,Sprite,Spotify
+11/8/2022 9:00:34,International,Shoes like pottery,No Preference,Apple,No Preference,No Preference
+11/8/2022 11:11:11,Northern California,No Preference,In-N-Out,Google,Coca Cola,Spotify
+11/8/2022 11:13:21,Southern California,No Preference,Jack In the Box,Apple,Sprite,No Preference
+11/8/2022 11:14:24,Southern California,Vans,In-N-Out,Apple,Sprite,No Preference
+11/8/2022 11:21:15,Northern California,No Preference,Tacobell,Samsung,Pepsi,Spotify
+11/8/2022 11:23:56,Southern California,Vans,chick fill a or in and out,Apple,sparkling water,Spotify
+11/8/2022 11:24:05,Southern California,Vans,In-N-Out,Samsung,Pepsi,Youtube Music
+11/8/2022 11:26:48,Southern California,Vans,In-N-Out,Apple,Coca Cola,Spotify
+11/8/2022 11:28:00,Southern California,No Preference,In-N-Out,Samsung,Pepsi,Spotify
+11/8/2022 11:28:41,Southern California,Nike,In-N-Out,Apple,Coca Cola,Spotify
+11/8/2022 11:29:22,Southern California,Nike,No Preference,Apple,No Preference,No Preference
+11/8/2022 11:33:30,Southern California,Nike,In-N-Out,Apple,Sprite,Spotify
+11/8/2022 11:42:00,Southern California,No Preference,McDonalds,Apple,Pepsi,No Preference
+11/8/2022 12:13:36,Southern California,No Preference,In-N-Out,Apple,Diet drinks,Spotify
+11/8/2022 12:42:54,Southern California,Nike,No Preference,Apple,Pepsi,Spotify
+11/8/2022 12:50:14,Northern California,,,,,
+11/8/2022 12:57:50,International,Nike,In-N-Out,Apple,Sprite,Apple Music
+11/8/2022 13:03:33,Southern California,Nike,In-N-Out,Apple,Coca Cola,Apple Music
+11/8/2022 13:29:32,International,,,,,
+11/8/2022 13:35:44,Southern California,Vans,In-N-Out,Apple,No Preference,Spotify
+11/8/2022 14:26:15,Northern California,No Preference,No Preference,No Preference,No Preference,No Preference
+11/8/2022 15:34:48,Southern California,Nike,In-N-Out,Apple,Coca Cola,Spotify
+11/8/2022 16:41:47,Southern California,No Preference,No Preference,Apple,Coca Cola,No Preference
+11/8/2022 20:03:00,Southern California,Nike,In-N-Out,Apple,Sprite,Apple Music
+11/8/2022 20:29:19,Southern California,Nike,Chipotle,Apple,Coca Cola,Spotify
+11/8/2022 20:55:42,Southern California,Adidas,No Preference,Apple,Sprite,Spotify
+11/9/2022 8:49:41,Southern California,Nike,McDonalds,Apple,Pepsi,Spotify
+11/9/2022 9:36:56,Southern California,Vans,In-N-Out,Apple,Coca Cola,Spotify
+11/9/2022 9:42:24,Northern California,Adidas,In-N-Out,Apple,Sprite,No Preference
+11/9/2022 10:12:39,Southern California,Converse,In-N-Out,Apple,Sprite,Spotify
+11/9/2022 14:14:47,Southern California,saucony,Del Taco,Apple,None,Spotify
+11/9/2022 17:16:16,Out of State (Within U.S),No Preference,No Preference,No Preference,No Preference,SoundCloud 
+11/9/2022 17:50:55,Southern California,Nike,McDonalds,Apple,Root Beer,Spotify
+11/11/2022 18:14:17,International,No Preference,Jack In the Box,Samsung,Coca Cola,Spotify
+11/12/2022 4:40:24,Southern California,No Preference,In-N-Out,Apple,Coca Cola,Spotify
+11/12/2022 20:20:23,Northern California,Adidas,McDonalds,Apple,Sprite,Spotify
+11/14/2022 1:33:38,Southern California,Nike,In-N-Out,Apple,No Preference,Spotify
+11/14/2022 13:42:29,International,Nike,In-N-Out,Samsung,Coca Cola,Apple Music
